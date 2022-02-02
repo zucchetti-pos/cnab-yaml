@@ -119,8 +119,8 @@ agencia_cobradora:
 
 especie:
   pos: [148, 149]
-  picture: '9(02)'
-  default: '1'
+  picture: 'X(02)'
+  default: 'DM'
 
 aceite:
   pos: [150, 150]
