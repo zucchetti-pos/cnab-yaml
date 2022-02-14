@@ -107,7 +107,7 @@ valor_titulo:
   pos: [127, 139]
   picture: '9(11)V9(2)'
 
-codigo_banco:
+brancos04:
   pos: [140, 142]
   picture: '9(03)'
   default: '0'
@@ -119,8 +119,8 @@ agencia_cobradora:
 
 especie:
   pos: [148, 149]
-  picture: 'X(02)'
-  default: 'DM'
+  picture: '9(02)'
+  default: '01'
 
 aceite:
   pos: [150, 150]
@@ -132,15 +132,10 @@ data_emissao:
   picture: '9(06)'
   date_format: '%d%m%y'
 
-instrucao1:
-  pos: [157, 158]
-  picture: 'X(02)'
-  default:  '05'
-
-instrucao2:
-  pos: [159, 160]
-  picture: 'X(02)'
-  default:  '20'
+brancos05:
+  pos: [157, 160]
+  picture: '9(04)'
+  default: '0'
 
 juros_um_dia:
   pos: [161, 173]
