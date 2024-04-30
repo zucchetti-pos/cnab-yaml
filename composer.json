@@ -1,16 +1,25 @@
 {
-    "name": "zucchetti-pos/cnab_yaml",
-    "type": "library",
-    "homepage": "http://github.com/zucchetti-pos/cnab_yaml",
-    "description": "Especificação do formato Cnab240 e Cnab400 traduzida para Yaml",
-    "keywords": ["boleto", "remessa", "retorno", "cnab", "cnab240", "cnab400", "edi", "yaml"],
-    "licence": "MIT",
-    "authors": [
-        {
-            "name": "Jonathan Müller Kunz",
-            "email": "jonathanmullerkunz@gmail.com"
-        }
-    ],
-    "require": {},
-    "config": {}
+  "name": "zucchetti-pos/cnab-yaml",
+  "type": "library",
+  "homepage": "http://github.com/zucchetti-pos/cnab-yaml",
+  "description": "Especificação do formato Cnab240 e Cnab400 traduzida para Yaml",
+  "keywords": [
+    "boleto",
+    "remessa",
+    "retorno",
+    "cnab",
+    "cnab240",
+    "cnab400",
+    "edi",
+    "yaml"
+  ],
+  "licence": "MIT",
+  "authors": [
+    {
+      "name": "Jonathan Müller Kunz",
+      "email": "jonathanmullerkunz@gmail.com"
+    }
+  ],
+  "require": {},
+  "config": {}
 }

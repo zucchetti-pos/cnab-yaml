@@ -1,7 +1,6 @@
-
 {
-  "name": "cnab_yaml",
+  "name": "cnab-yaml",
   "version": "1.2.9",
   "license": "MIT",
-  "repository": "https://github.com/andersondanilo/cnab_yaml"
+  "repository": "https://github.com/zucchetti-pos/cnab-yaml"
 }
